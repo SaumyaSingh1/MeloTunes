@@ -7,8 +7,8 @@ const AboutUs = () => {
                 <div class="max-w-3xl mx-auto bg-white p-6 rounded-lg shadow-md">
                     <h2 class="text-2xl font-semibold mb-4">About Me:</h2>
                     <p class="mb-6">
-                        I'm Sourabh Kumar, a B.Tech student in Computer Science and
-                        Engineering, and a passionate web development enthusiast. Proficient
+                        I'm Saumya Singh, a B.Tech student in Electronics Engineering, 
+                        and a passionate web development enthusiast. Proficient
                         in the MERN stack, I thrive on creating dynamic and engaging web
                         applications. With a keen interest in technology and a drive to
                         explore new possibilities, I channel my creativity into crafting
