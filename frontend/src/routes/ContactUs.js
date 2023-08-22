@@ -9,13 +9,10 @@ const ContactUs = () => {
                 <h2 class="text-xl font-semibold mb-2">Contact Information</h2>
                 <br />
                 <p class="mb-2">
-                    Phone: +91 8840331207
-                </p>
-                <p class="mb-2">
-                    Email:  sk25002kumar@gmail.com
+                    Email:  ss2010saumya@gmail.com
                 </p>
                 <p>
-                    LinkedIn: <a href="https://www.linkedin.com/in/sourabh-kumar-1a41ab205/" target="_blank" class="text-blue-500 hover:underline">LinkedIn Profile</a>
+                    LinkedIn: <a href="https://www.linkedin.com/in/saumya-singh-79290b233/" target="_blank" class="text-blue-500 hover:underline">LinkedIn Profile</a>
                 </p>
                 <p><br /><br /><br /><br /><br /><br /><br /></p>
             </div>
